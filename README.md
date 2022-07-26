@@ -24,9 +24,9 @@ acutal weeks 0%
 
 to compile this youll need 
 
--Devkitpro(obvisouly)
+- Devkitpro(obvisouly)
 
--GRRLIB
+- GRRLIB
 
 - If theres something else not here that I forgot please add an issue on this page and ill be sure to fix it
 
