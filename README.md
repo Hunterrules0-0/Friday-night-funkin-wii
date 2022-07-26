@@ -6,7 +6,7 @@
 
 This is a rewrite of the popular game friday night funkin for the wii
 
-ITS NOT FINISHED and closes after the menu.
+ITS NOT FINISHED.
 
 
 If you have any suggestions or questions or just want to say hi please add an issue on this page. I love hearing from other people.
