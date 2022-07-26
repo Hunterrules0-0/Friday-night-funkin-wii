@@ -9,7 +9,6 @@
 #include  "../../gfx/guiassets/Menu/Dancing_gf/gfdancesprites.h"
 #include  "../../gfx/guiassets/Menu/Logo/menu.h" //sorry this one dosent include the bumping I could not get it to work
 #include "../../Common_stuff/colors.h"
-#include  "../../gfx/guiassets/Menu/Background/menuBG.h"
 #include <unistd.h>
 #include "../../Audio/oggplayer.h"
 
@@ -45,7 +44,7 @@ int GotoMenu(GRRLIB_texImg *font){
 
     //logo bump animation
     GRRLIB_texImg *logo_bump = GRRLIB_LoadTexture(menu);
-    unsigned char black = 0x0;
+    
     
     int gfdancearray[] = {dancegf1, dancegf2, dancegf3, dancegf4, dancegf5, dancegf6, dancegf7, dancegf8, dancegf9, dancegf9, dancegf10, dancegf11, dancegf12, dancegf13, dancegf14, dancegf15, dancegf16, dancegf17, dancegf18, dancegf19, dancegf20};
 
@@ -96,16 +95,26 @@ int GotoMenu(GRRLIB_texImg *font){
             
             switch(next_screen) { //If the player presses A move the screen and load into the selection screen
                 case 1 :
-                        if(bordery < 1 ){ bordery = 0; sleep(1); return 0;}else{
+                        if(bordery < 1 ){ 
+                            bordery = 0; 
+                            sleep(1);
+                            GRRLIB_FreeTexture(logo_bump);
+                            for( a = 10; a < 20; a = a + 1 ){
+                                GRRLIB_FreeTexture(gfdancearray[a]); //clear stuff we dont need
+
+                            }
+                            return 0;
+                           
+                        }else{
                             
-                            GRRLIB_FillScreen(black);
+                        GRRLIB_FillScreen(BLACK);
                             
-                            bordery = bordery - 10;    
+                        bordery = bordery - 10;    
                          
                         }      
                     break; 
                 case 0 :
-                    GRRLIB_FillScreen(black);
+                    GRRLIB_FillScreen(BLACK);
                    
                     i = i + 1; // act as a pointer to the next frame.
 
@@ -122,7 +131,8 @@ int GotoMenu(GRRLIB_texImg *font){
             
             GRRLIB_DrawImg(-10, 30, logo_bump, 0, 0.45, 0.45, 0xFFFFFFFF);
 
-            GRRLIB_Rectangle(0, bordery, 800, 600, BLACK, 1);
+        
+            GRRLIB_Rectangle(0, bordery, 800, 480, BLACK, 1);
 
 
             if (i > 20 || i == 20){i = 0;} // reset after all frames complete.

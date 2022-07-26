@@ -69,27 +69,6 @@ main.o: \
  /opt/devkitpro/libogc/include/bte/bte.h \
  /opt/devkitpro/libogc/include/bte/bd_addr.h \
  /opt/devkitpro/libogc/include/asndlib.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/gfdancesprites.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance1.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance2.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance3.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance4.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance5.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance6.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance7.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance8.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance9.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance10.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance11.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance12.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance13.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance14.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance15.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance16.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance17.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance18.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance19.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance20.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/build/sample_ogg.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/credits/Mad_duck.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/font/Font1.h \
@@ -99,11 +78,32 @@ main.o: \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/main_menu.c \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/credits/Mad_duck.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/gfdancesprites.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance1.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance2.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance3.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance4.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance5.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance6.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance7.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance8.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance9.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance10.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance11.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance12.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance13.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance14.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance15.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance16.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance17.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance18.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance19.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance20.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Logo/menu.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../Common_stuff/colors.h \
- /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Background/menuBG.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../Audio/oggplayer.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/build/confirmMenu_ogg.h \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/select_screen.c \
+ /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Selection_Screen/Weeks/Tutorial.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/Audio/oggplayer.h \
  /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/Audio/oggplayer.c \
  /opt/devkitpro/portlibs/ppc/include/tremor/ivorbiscodec.h \
@@ -182,27 +182,6 @@ main.o: \
 /opt/devkitpro/libogc/include/bte/bte.h:
 /opt/devkitpro/libogc/include/bte/bd_addr.h:
 /opt/devkitpro/libogc/include/asndlib.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/gfdancesprites.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance1.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance2.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance3.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance4.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance5.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance6.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance7.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance8.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance9.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance10.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance11.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance12.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance13.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance14.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance15.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance16.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance17.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance18.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance19.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/Menu/Dancing_gf/./gfdance20.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/build/sample_ogg.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/guiassets/credits/Mad_duck.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/gfx/font/Font1.h:
@@ -212,11 +191,32 @@ main.o: \
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/main_menu.c:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/credits/Mad_duck.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/gfdancesprites.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance1.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance2.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance3.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance4.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance5.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance6.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance7.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance8.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance9.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance10.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance11.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance12.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance13.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance14.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance15.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance16.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance17.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance18.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance19.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Dancing_gf/./gfdance20.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Logo/menu.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../Common_stuff/colors.h:
-/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Menu/Background/menuBG.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../Audio/oggplayer.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/build/confirmMenu_ogg.h:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/select_screen.c:
+/home/hunterrules0_0/projects/Friday-night-funkin-wii/source/GUI/Menu/../../gfx/guiassets/Selection_Screen/Weeks/Tutorial.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/Audio/oggplayer.h:
 /home/hunterrules0_0/projects/Friday-night-funkin-wii/source/Audio/oggplayer.c:
 /opt/devkitpro/portlibs/ppc/include/tremor/ivorbiscodec.h:

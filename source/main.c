@@ -12,18 +12,17 @@
 #include <asndlib.h>
 
 #include <stdio.h>
-#include "gfx/guiassets/Menu/Dancing_gf/gfdancesprites.h"
 
 #include "sample_ogg.h"
 #include "gfx/guiassets/credits/Mad_duck.h"
 #include "gfx/font/Font1.h"
 #include "GUI/Credits/Credits.c"
 #include "GUI/Menu/main_menu.c"
+#include "GUI/Menu/select_screen.c"
 
 #include "Audio/oggplayer.h"
 #include "Audio/oggplayer.c"
 int main() {
-    int i;
     GRRLIB_Init();
     WPAD_Init();
     ASND_Init();
@@ -44,5 +43,5 @@ int main() {
     //load the menu
     GotoMenu(text_font1);
 
-        
+    select_screen(text_font1);        
 }

@@ -1,7 +1,7 @@
 #ifndef COLORS_H_INCLUDED
 #define COLORS_H_INCLUDED
 
-// I took this from the grrlib examples.
+// I took most of this from the grrlib examples.
 #define BLACK   0x000000FF
 #define MAROON  0x800000FF
 #define GREEN   0x008000FF
@@ -18,4 +18,5 @@
 #define FUCHSIA 0xFF00FFFF
 #define AQUA    0x00FFFFFF
 #define WHITE   0xFFFFFFFF
+#define TAN     0xFDE871FF
 #endif
