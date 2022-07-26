@@ -28,10 +28,10 @@ to compile this youll need
 
 -GRRLIB
 
--some other shit im forgetting 
+- If theres something else not here that I forgot please add an issue on this page and ill be sure to fix it
 
-to compile just type in "make" into your terminal youll most likely get tons of warnings which is because of my bad programming.
-If it compiles succefully congraulations!! :)
+to compile just type in "make" into your terminal youll most likely get tons of warnings(Which is ok and is whats suppose to happen) which is because of my bad programming.
+Once it compiles succefully congraulations you did it!! :)
 
 
 # Thank you for reading
