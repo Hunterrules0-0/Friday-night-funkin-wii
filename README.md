@@ -16,7 +16,7 @@ Credits screen: 100% 🎉🎉 (may make a few adjustmants)
 
 Menu Screen: 100% 🎉🎉 
 
-Week selection screen 0%
+Week selection screen 10%
 
 acutal weeks 0%
 
