@@ -24,13 +24,13 @@ acutal weeks 0%
 
 to compile this youll need 
 
-- Devkitpro(obvisouly)
+- Devkitpro(obviously)
 
 - GRRLIB
 
 - If theres something else not here that I forgot please add an issue on this page and ill be sure to fix it
 
-to compile just type in "make" into your terminal youll most likely get tons of warnings(Which is ok and is whats suppose to happen) which is because of my bad programming.
+to compile just type in "make" into your terminal youll most likely get tons of warnings(Which is ok and is whats suppose to happen)
 Once it compiles succefully congraulations you did it!! :)
 
 
